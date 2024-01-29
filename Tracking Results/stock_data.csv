@@ -1,0 +1,1436 @@
+SYMBOL,MARKET_CAP,INDUSTRY,SECTOR,MACRO,FNO
+RELIANCE,1750283,Petroleum Products,Oil Gas & Consumable Fuels,Energy,1
+TCS,1374873,IT - Software,Information Technology,Information Technology,1
+HDFCBANK,1297213,Banks,Financial Services,Financial Services,1
+ICICIBANK,700333,Banks,Financial Services,Financial Services,1
+INFY,640269,IT - Software,Information Technology,Information Technology,1
+HINDUNILVR,624921,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+BHARTIARTL,579043,Telecom - Services,Telecommunication,Telecommunication,1
+ITC,576373,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+SBIN,572692,Banks,Financial Services,Financial Services,1
+LICI,524058,Insurance,Financial Services,Financial Services,0
+LT,483841,Construction,Construction,Industrials,1
+BAJFINANCE,452084,Finance,Financial Services,Financial Services,1
+HCLTECH,398366,IT - Software,Information Technology,Information Technology,1
+KOTAKBANK,378426,Banks,Financial Services,Financial Services,1
+AXISBANK,339273,Banks,Financial Services,Financial Services,1
+TITAN,327229,Consumer Durables,Consumer Durables,Consumer Discretionary,1
+ASIANPAINT,325624,Consumer Durables,Consumer Durables,Consumer Discretionary,1
+ADANIENT,324792,Metals & Minerals Trading,Metals & Mining,Commodities,1
+MARUTI,323893,Automobiles,Automobile and Auto Components,Consumer Discretionary,1
+ULTRACEMCO,302611,Cement & Cement Products,Construction Materials,Commodities,1
+SUNPHARMA,302328,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+NTPC,301081,Power,Power,Utilities,1
+BAJAJFINSV,269319,Finance,Financial Services,Financial Services,1
+DMART,264198,Retailing,Consumer Services,Consumer Discretionary,0
+TATAMOTORS,258983,Automobiles,Automobile and Auto Components,Consumer Discretionary,1
+ONGC,258525,Oil,Oil Gas & Consumable Fuels,Energy,1
+NESTLEIND,256880,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+ADANIGREEN,253920,Power,Power,Utilities,0
+WIPRO,245957,IT - Software,Information Technology,Information Technology,1
+COALINDIA,231842,Consumable Fuels,Oil Gas & Consumable Fuels,Energy,1
+ADANIPORTS,220982,Transport Infrastructure,Services,Services,1
+POWERGRID,220099,Power,Power,Utilities,1
+JSWSTEEL,214711,Ferrous Metals,Metals & Mining,Commodities,1
+M&M,214509,Automobiles,Automobile and Auto Components,Consumer Discretionary,1
+ADANIPOWER,201718,Power,Power,Utilities,0
+BAJAJ-AUTO,193129,Automobiles,Automobile and Auto Components,Consumer Discretionary,1
+HAL,187591,Aerospace & Defense,Capital Goods,Industrials,1
+LTIM,185850,IT - Software,Information Technology,Information Technology,1
+IOC,183435,Petroleum Products,Oil Gas & Consumable Fuels,Energy,1
+DLF,179213,Realty,Realty,Consumer Discretionary,1
+TATASTEEL,171302,Ferrous Metals,Metals & Mining,Commodities,1
+VBL,160713,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+JIOFIN,148000,Finance,Financial Services,Financial Services,0
+SBILIFE,143388,Insurance,Financial Services,Financial Services,1
+SIEMENS,143018,Electrical Equipment,Capital Goods,Industrials,1
+GRASIM,140411,Cement & Cement Products,Construction Materials,Commodities,1
+HDFCLIFE,138976,Insurance,Financial Services,Financial Services,1
+HINDALCO,138035,Non - Ferrous Metals,Metals & Mining,Commodities,1
+PIDILITIND,137836,Chemicals & Petrochemicals,Chemicals,Commodities,1
+HINDZINC,134281,Non - Ferrous Metals,Metals & Mining,Commodities,0
+BEL,134134,Aerospace & Defense,Capital Goods,Industrials,1
+IRFC,129509,Finance,Financial Services,Financial Services,0
+BRITANNIA,128643,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+PFC,126196,Finance,Financial Services,Financial Services,1
+TECHM,124246,IT - Software,Information Technology,Information Technology,1
+INDUSINDBK,124118,Banks,Financial Services,Financial Services,1
+BANKBARODA,119381,Banks,Financial Services,Financial Services,1
+ADANIENSOL,116357,Power,Power,Utilities,0
+GODREJCP,115476,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+INDIGO,114047,Transport Services,Services,Services,1
+EICHERMOT,113124,Automobiles,Automobile and Auto Components,Consumer Discretionary,1
+ATGL,108529,Gas,Oil Gas & Consumable Fuels,Energy,0
+TRENT,108450,Retailing,Consumer Services,Consumer Discretionary,1
+RECLTD,108357,Finance,Financial Services,Financial Services,1
+ZOMATO,107754,Retailing,Consumer Services,Consumer Discretionary,0
+GAIL,106648,Gas,Oil Gas & Consumable Fuels,Energy,1
+TATAPOWER,105926,Power,Power,Utilities,1
+CHOLAFIN,105794,Finance,Financial Services,Financial Services,1
+PNB,105375,Banks,Financial Services,Financial Services,1
+SHREECEM,103946,Cement & Cement Products,Construction Materials,Commodities,1
+DIVISLAB,103750,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+AMBUJACEM,103194,Cement & Cement Products,Construction Materials,Commodities,1
+TATACONSUM,101169,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+CIPLA,100919,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+ABB,98982,Electrical Equipment,Capital Goods,Industrials,1
+LODHA,98665,Realty,Realty,Consumer Discretionary,0
+DABUR,98640,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+BPCL,97833,Petroleum Products,Oil Gas & Consumable Fuels,Energy,1
+DRREDDY,96816,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+TVSMOTOR,96348,Automobiles,Automobile and Auto Components,Consumer Discretionary,1
+VEDL,95904,Diversified Metals,Metals & Mining,Commodities,1
+UNIONBANK,88208,Banks,Financial Services,Financial Services,0
+HAVELLS,85715,Consumer Durables,Consumer Durables,Consumer Discretionary,1
+BAJAJHLDNG,85674,Finance,Financial Services,Financial Services,0
+HEROMOTOCO,82873,Automobiles,Automobile and Auto Components,Consumer Discretionary,1
+POLYCAB,82590,Industrial Products,Capital Goods,Industrials,1
+APOLLOHOSP,82072,Healthcare Services,Healthcare,Healthcare,1
+IOB,81753,Banks,Financial Services,Financial Services,0
+MCDOWELL-N,81172,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+MANKIND,79477,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+CANBK,79268,Banks,Financial Services,Financial Services,1
+TORNTPHARM,77944,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+IDEA,77888,Telecom - Services,Telecommunication,Telecommunication,1
+SHRIRAMFIN,77209,Finance,Financial Services,Financial Services,1
+ICICIPRULI,77057,Insurance,Financial Services,Financial Services,1
+JINDALSTEL,76201,Ferrous Metals,Metals & Mining,Commodities,1
+SRF,73463,Chemicals & Petrochemicals,Chemicals,Commodities,1
+IDBI,72364,Banks,Financial Services,Financial Services,0
+SBICARD,72353,Finance,Financial Services,Financial Services,1
+MARICO,70799,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+IRCTC,70640,Leisure Services,Consumer Services,Consumer Discretionary,1
+BERGEPAINT,70473,Consumer Durables,Consumer Durables,Consumer Discretionary,1
+ICICIGI,70151,Insurance,Financial Services,Financial Services,1
+ZYDUSLIFE,69716,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+CGPOWER,69033,Electrical Equipment,Capital Goods,Industrials,0
+MOTHERSON,68848,Auto Components,Automobile and Auto Components,Consumer Discretionary,1
+COLPAL,68721,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+TIINDIA,68454,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+HDFCAMC,68453,Capital Markets,Financial Services,Financial Services,1
+JSWENERGY,67267,Power,Power,Utilities,0
+BHEL,67239,Electrical Equipment,Capital Goods,Industrials,1
+MAXHEALTH,66667,Healthcare Services,Healthcare,Healthcare,0
+NAUKRI,66387,Retailing,Consumer Services,Consumer Discretionary,1
+BOSCHLTD,65620,Auto Components,Automobile and Auto Components,Consumer Discretionary,1
+NHPC,64991,Power,Power,Utilities,0
+AUROPHARMA,63598,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+IDFCFIRSTB,62753,Banks,Financial Services,Financial Services,1
+INDHOTEL,62235,Leisure Services,Consumer Services,Consumer Discretionary,1
+ALKEM,62162,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+YESBANK,61550,Banks,Financial Services,Financial Services,0
+NMDC,61323,Minerals & Mining,Metals & Mining,Commodities,1
+SOLARINDS,60945,Chemicals & Petrochemicals,Chemicals,Commodities,0
+LUPIN,60331,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+MUTHOOTFIN,59014,Finance,Financial Services,Financial Services,1
+BHARATFORG,57640,Industrial Products,Capital Goods,Industrials,1
+SUPREMEIND,57416,Industrial Products,Capital Goods,Industrials,0
+PERSISTENT,56848,IT - Software,Information Technology,Information Technology,1
+PATANJALI,56833,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+INDIANB,56761,Banks,Financial Services,Financial Services,0
+HINDPETRO,56458,Petroleum Products,Oil Gas & Consumable Fuels,Energy,1
+PGHH,56401,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GODREJPROP,55803,Realty,Realty,Consumer Discretionary,1
+LTTS,55515,IT - Services,Information Technology,Information Technology,1
+MRF,54838,Auto Components,Automobile and Auto Components,Consumer Discretionary,1
+CUMMINSIND,54520,Industrial Products,Capital Goods,Industrials,1
+TATAELXSI,54336,IT - Software,Information Technology,Information Technology,0
+GICRE,54036,Insurance,Financial Services,Financial Services,0
+INDUSTOWER,53360,Telecom - Services,Telecommunication,Telecommunication,1
+PIIND,53268,Fertilizers & Agrochemicals,Chemicals,Commodities,1
+ASHOKLEY,53188,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,1
+AUBANK,52486,Banks,Financial Services,Financial Services,1
+CONCOR,52305,Transport Services,Services,Services,1
+FACT,52105,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+OBEROIRLTY,51886,Realty,Realty,Consumer Discretionary,1
+SUZLON,51863,Electrical Equipment,Capital Goods,Industrials,0
+MPHASIS,51669,IT - Software,Information Technology,Information Technology,1
+ASTRAL,51335,Industrial Products,Capital Goods,Industrials,1
+BANKINDIA,51286,Banks,Financial Services,Financial Services,0
+SAIL,50950,Ferrous Metals,Metals & Mining,Commodities,1
+TATACOMM,50516,Telecom - Services,Telecommunication,Telecommunication,1
+SCHAEFFLER,50017,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+BALKRISIND,49741,Auto Components,Automobile and Auto Components,Consumer Discretionary,1
+NYKAA,49134,Retailing,Consumer Services,Consumer Discretionary,0
+GMRINFRA,48650,Transport Infrastructure,Services,Services,1
+LINDEINDIA,48169,Chemicals & Petrochemicals,Chemicals,Commodities,0
+TATATECH,47950,IT - Services,Information Technology,Information Technology,0
+UCOBANK,47585,Banks,Financial Services,Financial Services,0
+UBL,47302,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+JSL,46936,Ferrous Metals,Metals & Mining,Commodities,0
+PRESTIGE,46488,Realty,Realty,Consumer Discretionary,0
+AWL,46139,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+MAZDOCK,45965,Industrial Manufacturing,Capital Goods,Industrials,0
+TORNTPOWER,44842,Power,Power,Utilities,0
+UPL,44113,Fertilizers & Agrochemicals,Chemicals,Commodities,1
+JSWINFRA,43691,Transport Infrastructure,Services,Services,0
+CENTRALBK,43578,Banks,Financial Services,Financial Services,0
+ABCAPITAL,43153,Finance,Financial Services,Financial Services,1
+PAGEIND,43054,Textiles & Apparels,Textiles,Consumer Discretionary,1
+DALBHARAT,42761,Cement & Cement Products,Construction Materials,Commodities,1
+APLAPOLLO,42628,Industrial Products,Capital Goods,Industrials,0
+KPITTECH,41679,IT - Software,Information Technology,Information Technology,0
+3MINDIA,41565,Diversified,Diversified,Diversified,0
+ACC,41463,Cement & Cement Products,Construction Materials,Commodities,1
+L&TFH,41045,Finance,Financial Services,Financial Services,1
+FLUOROCHEM,40644,Chemicals & Petrochemicals,Chemicals,Commodities,0
+OIL,40470,Oil,Oil Gas & Consumable Fuels,Energy,0
+PAYTM,40343,Financial Technology (Fintech),Financial Services,Financial Services,0
+PHOENIXLTD,40217,Realty,Realty,Consumer Discretionary,0
+UNOMINDA,39488,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+DIXON,39202,Consumer Durables,Consumer Durables,Consumer Discretionary,1
+BANDHANBNK,38839,Banks,Financial Services,Financial Services,1
+SUNDARMFIN,38776,Finance,Financial Services,Financial Services,0
+COFORGE,38758,IT - Software,Information Technology,Information Technology,1
+FEDERALBNK,38086,Banks,Financial Services,Financial Services,1
+RVNL,37812,Construction,Construction,Industrials,0
+SONACOMS,37738,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+JUBLFOOD,37215,Leisure Services,Consumer Services,Consumer Discretionary,1
+COROMANDEL,36830,Fertilizers & Agrochemicals,Chemicals,Commodities,1
+OFSS,36647,IT - Software,Information Technology,Information Technology,1
+THERMAX,36643,Electrical Equipment,Capital Goods,Industrials,0
+KALYANKJIL,36443,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+POLICYBZR,35828,Financial Technology (Fintech),Financial Services,Financial Services,0
+SJVN,35800,Power,Power,Utilities,0
+NLCINDIA,35013,Power,Power,Utilities,0
+AIAENG,34729,Industrial Products,Capital Goods,Industrials,0
+NIACL,34550,Insurance,Financial Services,Financial Services,0
+METROBRAND,34360,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+M&MFIN,34224,Finance,Financial Services,Financial Services,1
+DEEPAKNTR,33825,Chemicals & Petrochemicals,Chemicals,Commodities,1
+POONAWALLA,33515,Finance,Financial Services,Financial Services,0
+PETRONET,33428,Gas,Oil Gas & Consumable Fuels,Energy,1
+ESCORTS,33024,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,1
+MFSL,32872,Insurance,Financial Services,Financial Services,1
+HONAUT,32578,Industrial Manufacturing,Capital Goods,Industrials,0
+VOLTAS,32369,Consumer Durables,Consumer Durables,Consumer Discretionary,1
+GLAXO,32287,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+MAHABANK,31937,Banks,Financial Services,Financial Services,0
+GUJGASLTD,31762,Gas,Oil Gas & Consumable Fuels,Energy,1
+GLAND,31689,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+FORTIS,31637,Healthcare Services,Healthcare,Healthcare,0
+CRISIL,31578,Finance,Financial Services,Financial Services,0
+BDL,31451,Aerospace & Defense,Capital Goods,Industrials,0
+STARHEALTH,31259,Insurance,Financial Services,Financial Services,0
+ABBOTINDIA,31186,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+MANYAVAR,30665,Retailing,Consumer Services,Consumer Discretionary,0
+ZFCVINDIA,30348,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+LLOYDSME,30219,Ferrous Metals,Metals & Mining,Commodities,0
+BSE,30121,Capital Markets,Financial Services,Financial Services,0
+BIOCON,29967,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+LICHSGFIN,29511,Finance,Financial Services,Financial Services,1
+ANGELONE,29296,Capital Markets,Financial Services,Financial Services,0
+KEI,29295,Industrial Products,Capital Goods,Industrials,0
+PSB,29280,Banks,Financial Services,Financial Services,0
+IGL,29260,Gas,Oil Gas & Consumable Fuels,Energy,1
+ITI,29254,Telecom - Equipment & Accessories,Telecommunication,Telecommunication,0
+JKCEMENT,29201,Cement & Cement Products,Construction Materials,Commodities,1
+APOLLOTYRE,28830,Auto Components,Automobile and Auto Components,Consumer Discretionary,1
+DELHIVERY,28586,Transport Services,Services,Services,0
+SYNGENE,28262,Healthcare Services,Healthcare,Healthcare,1
+TATACHEM,28223,Chemicals & Petrochemicals,Chemicals,Commodities,1
+KPRMILL,28193,Textiles & Apparels,Textiles,Consumer Discretionary,0
+SUNTV,28055,Entertainment,Media Entertainment & Publication,Consumer Discretionary,1
+IPCALAB,28037,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+NAM-INDIA,27893,Capital Markets,Financial Services,Financial Services,0
+IREDA,27576,Finance,Financial Services,Financial Services,0
+BAYERCROP,27569,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+MSUMI,27278,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+ENDURANCE,27007,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+EXIDEIND,26970,Auto Components,Automobile and Auto Components,Consumer Discretionary,1
+KANSAINER,26895,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+ZEEL,26395,Entertainment,Media Entertainment & Publication,Consumer Discretionary,1
+TATAMTRDVR,26361,Automobiles,Automobile and Auto Components,Consumer Discretionary,0
+HINDCOPPER,26289,Non - Ferrous Metals,Metals & Mining,Commodities,1
+SUNDRMFAST,26220,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+AJANTPHARM,26153,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+MEDANTA,25719,Healthcare Services,Healthcare,Healthcare,0
+GRINDWELL,25665,Industrial Products,Capital Goods,Industrials,0
+CREDITACC,25482,Finance,Financial Services,Financial Services,0
+360ONE,25449,Finance,Financial Services,Financial Services,0
+HATSUN,25282,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+CYIENT,25272,IT - Services,Information Technology,Information Technology,0
+GODREJIND,25235,Diversified,Diversified,Diversified,0
+HUDCO,25194,Finance,Financial Services,Financial Services,0
+JBCHEPHARM,25115,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+IRB,25062,Construction,Construction,Industrials,0
+EMAMILTD,24531,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+NH,24523,Healthcare Services,Healthcare,Healthcare,0
+NATIONALUM,24299,Non - Ferrous Metals,Metals & Mining,Commodities,1
+TIMKEN,24098,Industrial Products,Capital Goods,Industrials,0
+APARINDS,24089,Electrical Equipment,Capital Goods,Industrials,0
+GLENMARK,24041,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+RAMCOCEM,23986,Cement & Cement Products,Construction Materials,Commodities,1
+AARTIIND,23556,Chemicals & Petrochemicals,Chemicals,Commodities,1
+RATNAMANI,23481,Industrial Products,Capital Goods,Industrials,0
+DEVYANI,23285,Leisure Services,Consumer Services,Consumer Discretionary,0
+MRPL,23239,Petroleum Products,Oil Gas & Consumable Fuels,Energy,0
+ISEC,23221,Capital Markets,Financial Services,Financial Services,0
+LAURUSLABS,23198,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+IIFL,22689,Finance,Financial Services,Financial Services,0
+SKFINDIA,22653,Industrial Products,Capital Goods,Industrials,0
+RELAXO,22492,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+KIOCL,22383,Ferrous Metals,Metals & Mining,Commodities,0
+POWERINDIA,22300,Electrical Equipment,Capital Goods,Industrials,0
+RADICO,22222,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+TATAINVEST,21627,Finance,Financial Services,Financial Services,0
+LALPATHLAB,21537,Healthcare Services,Healthcare,Healthcare,1
+FIVESTAR,21496,Finance,Financial Services,Financial Services,0
+BATAINDIA,21241,Consumer Durables,Consumer Durables,Consumer Discretionary,1
+ABFRL,21228,Retailing,Consumer Services,Consumer Discretionary,1
+CARBORUNIV,21199,Industrial Products,Capital Goods,Industrials,0
+ATUL,21185,Chemicals & Petrochemicals,Chemicals,Commodities,1
+GILLETTE,21180,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+PEL,20894,Finance,Financial Services,Financial Services,1
+KAJARIACER,20831,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SONATSOFTW,20774,IT - Software,Information Technology,Information Technology,0
+BRIGADE,20738,Realty,Realty,Consumer Discretionary,0
+ASTERDM,20435,Healthcare Services,Healthcare,Healthcare,0
+PNBHOUSING,20258,Finance,Financial Services,Financial Services,0
+IDFC,20248,Finance,Financial Services,Financial Services,1
+SUMICHEM,20165,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+CROMPTON,19878,Consumer Durables,Consumer Durables,Consumer Discretionary,1
+BSOFT,19854,IT - Software,Information Technology,Information Technology,1
+PFIZER,19535,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+CHOLAHLDNG,19491,Finance,Financial Services,Financial Services,0
+BLUESTARCO,19482,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+CDSL,19082,Capital Markets,Financial Services,Financial Services,0
+NAVINFLUOR,19079,Chemicals & Petrochemicals,Chemicals,Commodities,1
+SUVENPHAR,18582,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SANOFI,18518,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+TRIDENT,18473,Textiles & Apparels,Textiles,Consumer Discretionary,0
+MOTILALOFS,18433,Capital Markets,Financial Services,Financial Services,0
+PPLPHARMA,18363,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+AFFLE,18268,IT - Services,Information Technology,Information Technology,0
+VINATIORGA,17914,Chemicals & Petrochemicals,Chemicals,Commodities,0
+CIEINDIA,17913,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+TTML,17888,Telecom - Services,Telecommunication,Telecommunication,0
+RRKABEL,17877,Industrial Products,Capital Goods,Industrials,0
+COCHINSHIP,17825,Industrial Manufacturing,Capital Goods,Industrials,0
+CASTROLIND,17784,Petroleum Products,Oil Gas & Consumable Fuels,Energy,0
+JYOTHYLAB,17622,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+CESC,17504,Power,Power,Utilities,0
+BLUEDART,17397,Transport Services,Services,Services,0
+WHIRLPOOL,17369,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+JBMA,17314,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+ELGIEQUIP,17268,Industrial Products,Capital Goods,Industrials,0
+GSPL,17265,Gas,Oil Gas & Consumable Fuels,Energy,0
+CENTURYPLY,17065,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+RBLBANK,16828,Banks,Financial Services,Financial Services,1
+KAYNES,16683,Industrial Manufacturing,Capital Goods,Industrials,0
+CELLO,16675,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+RHIM,16623,Industrial Products,Capital Goods,Industrials,0
+CLEAN,16511,Chemicals & Petrochemicals,Chemicals,Commodities,0
+FINCABLES,16365,Industrial Products,Capital Goods,Industrials,0
+PVRINOX,16339,Entertainment,Media Entertainment & Publication,Consumer Discretionary,1
+INDIAMART,16320,Retailing,Consumer Services,Consumer Discretionary,1
+MCX,16284,Capital Markets,Financial Services,Financial Services,1
+INOXWIND,16200,Electrical Equipment,Capital Goods,Industrials,0
+IRCON,16120,Construction,Construction,Industrials,0
+SHYAMMETL,16013,Ferrous Metals,Metals & Mining,Commodities,0
+DCMSHRIRAM,16009,Diversified,Diversified,Diversified,0
+APTUS,15963,Finance,Financial Services,Financial Services,0
+CGCL,15880,Finance,Financial Services,Financial Services,0
+KIMS,15862,Healthcare Services,Healthcare,Healthcare,0
+TVSHLTD,15710,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+EIHOTEL,15559,Leisure Services,Consumer Services,Consumer Discretionary,0
+CHAMBLFERT,15552,Fertilizers & Agrochemicals,Chemicals,Commodities,1
+CONCORDBIO,15441,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+FINEORG,15284,Chemicals & Petrochemicals,Chemicals,Commodities,0
+KEC,15091,Electrical Equipment,Capital Goods,Industrials,0
+NSLNISP,15005,Ferrous Metals,Metals & Mining,Commodities,0
+IEX,14918,Capital Markets,Financial Services,Financial Services,1
+APLLTD,14841,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+TEJASNET,14771,Telecom - Equipment & Accessories,Telecommunication,Telecommunication,0
+TANLA,14737,IT - Software,Information Technology,Information Technology,0
+NBCC,14688,Construction,Construction,Industrials,0
+LAXMIMACH,14684,Industrial Manufacturing,Capital Goods,Industrials,0
+MANAPPURAM,14559,Finance,Financial Services,Financial Services,1
+NATCOPHARM,14535,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+CHALET,14347,Leisure Services,Consumer Services,Consumer Discretionary,0
+WELCORP,14339,Industrial Products,Capital Goods,Industrials,0
+POLYMED,14267,Healthcare Equipment & Supplies,Healthcare,Healthcare,0
+HONASA,14131,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+WELSPUNLIV,14086,Textiles & Apparels,Textiles,Consumer Discretionary,0
+TITAGARH,14056,Industrial Manufacturing,Capital Goods,Industrials,0
+ASAHIINDIA,14051,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+GESHIP,13934,Transport Services,Services,Services,0
+ARE&M,13921,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+REDINGTON,13821,Commercial Services & Supplies,Services,Services,0
+ZENSARTECH,13818,IT - Software,Information Technology,Information Technology,0
+ASTRAZEN,13812,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+CENTURYTEX,13683,Paper Forest & Jute Products,Forest Materials,Commodities,0
+BIKAJI,13682,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+HAPPSTMNDS,13659,IT - Software,Information Technology,Information Technology,0
+HSCL,13631,Chemicals & Petrochemicals,Chemicals,Commodities,0
+NUVOCO,13604,Cement & Cement Products,Construction Materials,Commodities,0
+J&KBANK,13539,Banks,Financial Services,Financial Services,0
+ABSLAMC,13511,Capital Markets,Financial Services,Financial Services,0
+KARURVYSYA,13508,Banks,Financial Services,Financial Services,0
+SFL,13452,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+TRITURBINE,13438,Electrical Equipment,Capital Goods,Industrials,0
+SWANENERGY,13433,Realty,Realty,Consumer Discretionary,0
+BASF,13301,Chemicals & Petrochemicals,Chemicals,Commodities,0
+JINDALSAW,13199,Industrial Products,Capital Goods,Industrials,0
+RKFORGE,13161,Industrial Products,Capital Goods,Industrials,0
+JWL,13140,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,0
+BLS,13132,Leisure Services,Consumer Services,Consumer Discretionary,0
+FINPIPE,13039,Industrial Products,Capital Goods,Industrials,0
+CAMS,13036,Capital Markets,Financial Services,Financial Services,0
+GMDCLTD,12943,Minerals & Mining,Metals & Mining,Commodities,0
+ALKYLAMINE,12928,Chemicals & Petrochemicals,Chemicals,Commodities,0
+GET&D,12888,Electrical Equipment,Capital Goods,Industrials,0
+FSL,12877,Commercial Services & Supplies,Services,Services,0
+ECLERX,12722,Commercial Services & Supplies,Services,Services,0
+VGUARD,12681,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+NUVAMA,12669,Capital Markets,Financial Services,Financial Services,0
+WESTLIFE,12638,Leisure Services,Consumer Services,Consumer Discretionary,0
+ERIS,12405,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+AEGISCHEM,12352,Gas,Oil Gas & Consumable Fuels,Energy,0
+SIGNATURE,12351,Realty,Realty,Consumer Discretionary,0
+MAHSEAMLES,12336,Industrial Products,Capital Goods,Industrials,0
+JAIBALAJI,12194,Ferrous Metals,Metals & Mining,Commodities,0
+HBLPOWER,12113,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+AAVAS,12092,Finance,Financial Services,Financial Services,0
+RAINBOW,12079,Healthcare Services,Healthcare,Healthcare,0
+RITES,12073,Construction,Construction,Industrials,0
+KSB,12016,Industrial Products,Capital Goods,Industrials,0
+HFCL,12016,Telecom - Services,Telecommunication,Telecommunication,0
+AKZOINDIA,11908,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+EQUITASBNK,11903,Banks,Financial Services,Financial Services,0
+SYRMA,11854,Industrial Manufacturing,Capital Goods,Industrials,0
+MGL,11849,Gas,Oil Gas & Consumable Fuels,Energy,1
+BEML,11806,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,0
+AETHER,11770,Chemicals & Petrochemicals,Chemicals,Commodities,0
+GNFC,11687,Chemicals & Petrochemicals,Chemicals,Commodities,1
+RAYMOND,11471,Textiles & Apparels,Textiles,Consumer Discretionary,0
+INTELLECT,11464,IT - Software,Information Technology,Information Technology,0
+CRAFTSMAN,11398,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+BAJAJELEC,11383,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+KPIL,11370,Construction,Construction,Industrials,0
+ANURAS,11300,Chemicals & Petrochemicals,Chemicals,Commodities,0
+VTL,11191,Textiles & Apparels,Textiles,Consumer Discretionary,0
+BIRLACORPN,11187,Cement & Cement Products,Construction Materials,Commodities,0
+UJJIVANSFB,11152,Banks,Financial Services,Financial Services,0
+GRINFRA,11081,Construction,Construction,Industrials,0
+OLECTRA,11048,Automobiles,Automobile and Auto Components,Consumer Discretionary,0
+UTIAMC,11032,Capital Markets,Financial Services,Financial Services,0
+CUB,11021,Banks,Financial Services,Financial Services,1
+BBTC,10982,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GODFRYPHLP,10960,Cigarettes & Tobacco Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+NEWGEN,10945,IT - Software,Information Technology,Information Technology,0
+RAJESHEXPO,10840,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+ANANDRATHI,10823,Capital Markets,Financial Services,Financial Services,0
+RAILTEL,10800,Telecom - Services,Telecommunication,Telecommunication,0
+GRAPHITE,10726,Industrial Products,Capital Goods,Industrials,0
+GODREJAGRO,10690,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ZYDUSWELL,10652,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+IBULHSGFIN,10652,Finance,Financial Services,Financial Services,0
+JKLAKSHMI,10613,Cement & Cement Products,Construction Materials,Commodities,0
+ALOKINDS,10601,Textiles & Apparels,Textiles,Consumer Discretionary,0
+AMBER,10537,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SPLPETRO,10530,Chemicals & Petrochemicals,Chemicals,Commodities,0
+RTNINDIA,10519,Commercial Services & Supplies,Services,Services,0
+MAPMYINDIA,10518,IT - Software,Information Technology,Information Technology,0
+NCC,10472,Construction,Construction,Industrials,0
+DATAPATTNS,10424,Aerospace & Defense,Capital Goods,Industrials,0
+ELECON,10418,Industrial Manufacturing,Capital Goods,Industrials,0
+CHENNPETRO,10398,Petroleum Products,Oil Gas & Consumable Fuels,Energy,0
+JKTYRE,10377,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+CANFINHOME,10337,Finance,Financial Services,Financial Services,1
+GPIL,10305,Industrial Products,Capital Goods,Industrials,0
+TTKPRESTIG,10262,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+CAPLIPOINT,10256,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+PRAJIND,10238,Industrial Manufacturing,Capital Goods,Industrials,0
+CERA,10207,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+ROUTE,10038,Telecom - Services,Telecommunication,Telecommunication,0
+RENUKA,10015,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GRSE,9977,Aerospace & Defense,Capital Goods,Industrials,0
+SWSOLAR,9961,Construction,Construction,Industrials,0
+ACE,9951,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,0
+EIDPARRY,9888,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+SCHNEIDER,9810,Electrical Equipment,Capital Goods,Industrials,0
+GRANULES,9804,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,1
+GALAXYSURF,9803,Chemicals & Petrochemicals,Chemicals,Commodities,0
+INGERRAND,9800,Industrial Products,Capital Goods,Industrials,0
+CEATLTD,9789,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+HAPPYFORGE,9703,Industrial Products,Capital Goods,Industrials,0
+GSFC,9637,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+ENGINERSIN,9625,Construction,Construction,Industrials,0
+ANANTRAJ,9580,Realty,Realty,Consumer Discretionary,0
+SBFC,9562,Finance,Financial Services,Financial Services,0
+JPPOWER,9561,Power,Power,Utilities,0
+LEMONTREE,9503,Leisure Services,Consumer Services,Consumer Discretionary,0
+PCBL,9493,Chemicals & Petrochemicals,Chemicals,Commodities,0
+KIRLOSENG,9477,Industrial Products,Capital Goods,Industrials,0
+VOLTAMP,9425,Electrical Equipment,Capital Goods,Industrials,0
+JMFINANCIL,9393,Finance,Financial Services,Financial Services,0
+SOBHA,9380,Realty,Realty,Consumer Discretionary,0
+LATENTVIEW,9371,IT - Software,Information Technology,Information Technology,0
+SAFARI,9314,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SPARC,9284,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+PRSMJOHNSN,9257,Cement & Cement Products,Construction Materials,Commodities,0
+MINDACORP,9206,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+NETWORK18,9150,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+ESABINDIA,9082,Industrial Products,Capital Goods,Industrials,0
+SAPPHIRE,9057,Leisure Services,Consumer Services,Consumer Discretionary,0
+USHAMART,9049,Industrial Products,Capital Goods,Industrials,0
+PNCINFRA,9030,Construction,Construction,Industrials,0
+MMTC,8985,Commercial Services & Supplies,Services,Services,0
+MEDPLUS,8963,Retailing,Consumer Services,Consumer Discretionary,0
+DBREALTY,8933,Realty,Realty,Consumer Discretionary,0
+SARDAEN,8915,Ferrous Metals,Metals & Mining,Commodities,0
+RPOWER,8880,Power,Power,Utilities,0
+RCF,8772,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+TVSSCS,8709,Transport Services,Services,Services,0
+JUBLPHARMA,8681,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+TV18BRDCST,8666,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+BALAMINES,8627,Chemicals & Petrochemicals,Chemicals,Commodities,0
+METROPOLIS,8605,Healthcare Services,Healthcare,Healthcare,1
+TECHNOE,8599,Construction,Construction,Industrials,0
+KRBL,8594,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+DEEPAKFERT,8572,Chemicals & Petrochemicals,Chemicals,Commodities,0
+CCL,8567,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+RATEGAIN,8551,IT - Software,Information Technology,Information Technology,0
+CAMPUS,8540,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+MASTEK,8536,IT - Software,Information Technology,Information Technology,0
+MAHSCOOTER,8514,Finance,Financial Services,Financial Services,0
+SURYAROSNI,8499,Industrial Products,Capital Goods,Industrials,0
+VIPIND,8492,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+MAHLIFE,8438,Realty,Realty,Consumer Discretionary,0
+VARROC,8434,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+GAEL,8428,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+RELINFRA,8313,Power,Power,Utilities,0
+BALRAMCHIN,8280,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,1
+IONEXCHANG,8235,Construction,Construction,Industrials,0
+HOMEFIRST,8233,Finance,Financial Services,Financial Services,0
+KFINTECH,8222,Capital Markets,Financial Services,Financial Services,0
+PRINCEPIPE,8215,Industrial Products,Capital Goods,Industrials,0
+PGHL,8192,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+PTCIL,8145,Industrial Products,Capital Goods,Industrials,0
+JUBLINGREA,8139,Chemicals & Petrochemicals,Chemicals,Commodities,0
+KTKBANK,8107,Banks,Financial Services,Financial Services,0
+RESPONIND,8106,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+GLS,8051,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SPANDANA,8033,Finance,Financial Services,Financial Services,0
+INDIACEM,8022,Cement & Cement Products,Construction Materials,Commodities,1
+MANINFRA,8017,Construction,Construction,Industrials,0
+LXCHEM,7998,Chemicals & Petrochemicals,Chemicals,Commodities,0
+TMB,7995,Banks,Financial Services,Financial Services,0
+INOXINDIA,7995,Industrial Products,Capital Goods,Industrials,0
+ACI,7990,Chemicals & Petrochemicals,Chemicals,Commodities,0
+ALLCARGO,7936,Transport Services,Services,Services,0
+CHEMPLASTS,7905,Chemicals & Petrochemicals,Chemicals,Commodities,0
+EMIL,7891,Retailing,Consumer Services,Consumer Discretionary,0
+SANDUMA,7867,Consumable Fuels,Oil Gas & Consumable Fuels,Energy,0
+MIDHANI,7847,Aerospace & Defense,Capital Goods,Industrials,0
+QUESS,7736,Commercial Services & Supplies,Services,Services,0
+MHRIL,7653,Leisure Services,Consumer Services,Consumer Discretionary,0
+TEGA,7642,Industrial Manufacturing,Capital Goods,Industrials,0
+SHOPERSTOP,7629,Retailing,Consumer Services,Consumer Discretionary,0
+DOMS,7598,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SCI,7576,Transport Services,Services,Services,0
+TRIVENI,7541,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GRAVITA,7532,Minerals & Mining,Metals & Mining,Commodities,0
+GPPL,7382,Transport Infrastructure,Services,Services,0
+EDELWEISS,7342,Finance,Financial Services,Financial Services,0
+HEG,7333,Industrial Products,Capital Goods,Industrials,0
+PDSL,7314,Textiles & Apparels,Textiles,Consumer Discretionary,0
+MARKSANS,7312,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+RUSTOMJEE,7300,Realty,Realty,Consumer Discretionary,0
+VESUVIUS,7286,Industrial Products,Capital Goods,Industrials,0
+CSBBANK,7255,Banks,Financial Services,Financial Services,0
+KNRCON,7247,Construction,Construction,Industrials,0
+GMMPFAUDLR,7238,Industrial Manufacturing,Capital Goods,Industrials,0
+IFCI,7232,Finance,Financial Services,Financial Services,0
+STARCEMENT,7228,Cement & Cement Products,Construction Materials,Commodities,0
+ISGEC,7217,Construction,Construction,Industrials,0
+SAREGAMA,7153,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+EASEMYTRIP,7150,Leisure Services,Consumer Services,Consumer Discretionary,0
+JLHL,7147,Healthcare Services,Healthcare,Healthcare,0
+KIRLOSBROS,7108,Industrial Products,Capital Goods,Industrials,0
+INDIGOPNTS,7100,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+LTFOODS,7035,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+RELIGARE,7003,Finance,Financial Services,Financial Services,0
+VIJAYA,6896,Healthcare Services,Healthcare,Healthcare,0
+JAICORPLTD,6890,Industrial Products,Capital Goods,Industrials,0
+JKPAPER,6886,Paper Forest & Jute Products,Forest Materials,Commodities,0
+UJJIVAN,6873,Finance,Financial Services,Financial Services,0
+ROLEXRINGS,6847,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+GREENLAM,6832,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+GARFIBRES,6810,Textiles & Apparels,Textiles,Consumer Discretionary,0
+MTARTECH,6810,Aerospace & Defense,Capital Goods,Industrials,0
+ARVIND,6808,Textiles & Apparels,Textiles,Consumer Discretionary,0
+JUSTDIAL,6807,Retailing,Consumer Services,Consumer Discretionary,0
+NEULANDLAB,6784,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+POWERMECH,6782,Construction,Construction,Industrials,0
+VRLLOG,6735,Transport Services,Services,Services,0
+GOCOLORS,6724,Retailing,Consumer Services,Consumer Discretionary,0
+ZENTEC,6656,Aerospace & Defense,Capital Goods,Industrials,0
+NETWEB,6644,IT - Hardware,Information Technology,Information Technology,0
+SIS,6642,Commercial Services & Supplies,Services,Services,0
+ELECTCAST,6636,Industrial Products,Capital Goods,Industrials,0
+BECTORFOOD,6586,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+VAIBHAVGBL,6578,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+TEXRAIL,6536,Industrial Manufacturing,Capital Goods,Industrials,0
+SUNTECK,6533,Realty,Realty,Consumer Discretionary,0
+REDTAPE,6523,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+IWEL,6459,Electrical Equipment,Capital Goods,Industrials,0
+RSYSTEMS,6459,IT - Services,Information Technology,Information Technology,0
+FDC,6447,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SHRIPISTON,6427,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+THOMASCOOK,6409,Leisure Services,Consumer Services,Consumer Discretionary,0
+EPL,6404,Industrial Products,Capital Goods,Industrials,0
+HMT,6394,Industrial Manufacturing,Capital Goods,Industrials,0
+BLUEJET,6384,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+TCI,6369,Transport Services,Services,Services,0
+NAVA,6327,Power,Power,Utilities,0
+HNDFDS,6323,Diversified FMCG,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+MOIL,6305,Minerals & Mining,Metals & Mining,Commodities,0
+NESCO,6215,Commercial Services & Supplies,Services,Services,0
+PGEL,6168,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SHAREINDIA,6122,Capital Markets,Financial Services,Financial Services,0
+JINDWORLD,6116,Textiles & Apparels,Textiles,Consumer Discretionary,0
+WOCKPHARMA,6096,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+INDIASHLTR,6082,Finance,Financial Services,Financial Services,0
+ICIL,6058,Textiles & Apparels,Textiles,Consumer Discretionary,0
+SYMPHONY,6052,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+CMSINFO,6026,Commercial Services & Supplies,Services,Services,0
+TATACOFFEE,5994,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+INFIBEAM,5974,Financial Technology (Fintech),Financial Services,Financial Services,0
+STAR,5973,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+GENUSPOWER,5965,Electrical Equipment,Capital Goods,Industrials,0
+UTKARSHBNK,5933,Banks,Financial Services,Financial Services,0
+KPIGREEN,5899,Power,Power,Utilities,0
+NIITMTS,5887,Other Consumer Services,Consumer Services,Consumer Discretionary,0
+FUSION,5817,Finance,Financial Services,Financial Services,0
+TIIL,5775,Industrial Products,Capital Goods,Industrials,0
+BORORENEW,5737,Industrial Products,Capital Goods,Industrials,0
+AVANTIFEED,5736,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ASTRAMICRO,5709,Aerospace & Defense,Capital Goods,Industrials,0
+STLTECH,5700,Telecom - Services,Telecommunication,Telecommunication,0
+ASKAUTOLTD,5699,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+JSWHL,5694,Finance,Financial Services,Financial Services,0
+GUJALKALI,5688,Chemicals & Petrochemicals,Chemicals,Commodities,0
+NAZARA,5671,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+GABRIEL,5665,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+SUPRAJIT,5627,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+DBL,5625,Construction,Construction,Industrials,0
+PTC,5624,Power,Power,Utilities,0
+GHCL,5611,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SOUTHBANK,5598,Banks,Financial Services,Financial Services,0
+RBA,5558,Leisure Services,Consumer Services,Consumer Discretionary,0
+PARADEEP,5528,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+HGINFRA,5520,Construction,Construction,Industrials,0
+ICRA,5489,Capital Markets,Financial Services,Financial Services,0
+RAMKY,5483,Construction,Construction,Industrials,0
+KESORAMIND,5467,Cement & Cement Products,Construction Materials,Commodities,0
+ARVINDFASN,5448,Retailing,Consumer Services,Consumer Discretionary,0
+SANSERA,5440,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+AURIONPRO,5422,IT - Software,Information Technology,Information Technology,0
+SENCO,5399,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+AGI,5370,Industrial Products,Capital Goods,Industrials,0
+CYIENTDLM,5352,Industrial Manufacturing,Capital Goods,Industrials,0
+TEAMLEASE,5329,Commercial Services & Supplies,Services,Services,0
+HEIDELBERG,5303,Cement & Cement Products,Construction Materials,Commodities,0
+TCIEXP,5289,Transport Services,Services,Services,0
+DODLA,5259,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GREENPANEL,5256,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+VSTIND,5256,Cigarettes & Tobacco Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+AHLUCONT,5218,Construction,Construction,Industrials,0
+GATEWAY,5186,Transport Services,Services,Services,0
+RAIN,5175,Chemicals & Petrochemicals,Chemicals,Commodities,0
+ORIENTCEM,5138,Cement & Cement Products,Construction Materials,Commodities,0
+ETHOSLTD,5112,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+HCG,5070,Healthcare Services,Healthcare,Healthcare,0
+GOKEX,5034,Textiles & Apparels,Textiles,Consumer Discretionary,0
+FEDFINA,5009,Finance,Financial Services,Financial Services,0
+PRUDENT,4969,Capital Markets,Financial Services,Financial Services,0
+ITDCEM,4891,Construction,Construction,Industrials,0
+BBOX,4889,IT - Services,Information Technology,Information Technology,0
+JPASSOCIAT,4848,Construction,Construction,Industrials,0
+RALLIS,4846,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+ORIENTELEC,4836,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+RTNPOWER,4833,Power,Power,Utilities,0
+WSTCSTPAPR,4828,Paper Forest & Jute Products,Forest Materials,Commodities,0
+DHANUKA,4824,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+DBCORP,4790,Media,Media Entertainment & Publication,Consumer Discretionary,0
+WONDERLA,4786,Leisure Services,Consumer Services,Consumer Discretionary,0
+MASFIN,4761,Finance,Financial Services,Financial Services,0
+MSTCLTD,4738,Commercial Services & Supplies,Services,Services,0
+KKCL,4733,Textiles & Apparels,Textiles,Consumer Discretionary,0
+LLOYDSENGG,4733,Industrial Manufacturing,Capital Goods,Industrials,0
+IBREALEST,4707,Realty,Realty,Consumer Discretionary,0
+TINPLATE,4690,Industrial Products,Capital Goods,Industrials,0
+PATELENG,4649,Construction,Construction,Industrials,0
+TI,4636,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+PRICOLLTD,4635,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+HGS,4601,Commercial Services & Supplies,Services,Services,0
+PRIVISCL,4598,Chemicals & Petrochemicals,Chemicals,Commodities,0
+CHOICEIN,4578,Finance,Financial Services,Financial Services,0
+MAXESTATES,4573,Realty,Realty,Consumer Discretionary,0
+AARTIPHARM,4568,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+NOCIL,4565,Chemicals & Petrochemicals,Chemicals,Commodities,0
+BANCOINDIA,4565,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+SHANTIGEAR,4565,Industrial Manufacturing,Capital Goods,Industrials,0
+JAYNECOIND,4544,Industrial Products,Capital Goods,Industrials,0
+WELENT,4500,Construction,Construction,Industrials,0
+AARTIDRUGS,4496,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+NFL,4477,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+IIFLSEC,4455,Capital Markets,Financial Services,Financial Services,0
+JAMNAAUTO,4449,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+JKIL,4426,Construction,Construction,Industrials,0
+ROSSARI,4423,Chemicals & Petrochemicals,Chemicals,Commodities,0
+PURVA,4411,Realty,Realty,Consumer Discretionary,0
+TIPSINDLTD,4384,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+HEMIPROP,4349,Realty,Realty,Consumer Discretionary,0
+HCC,4335,Construction,Construction,Industrials,0
+GALLANTT,4319,Industrial Products,Capital Goods,Industrials,0
+DATAMATICS,4283,IT - Services,Information Technology,Information Technology,0
+MUTHOOTMF,4279,Finance,Financial Services,Financial Services,0
+ORISSAMINE,4262,Minerals & Mining,Metals & Mining,Commodities,0
+JISLJALEQS,4245,Industrial Products,Capital Goods,Industrials,0
+KALAMANDIR,4219,Retailing,Consumer Services,Consumer Discretionary,0
+SULA,4216,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+HMAAGRO,4209,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ADVENZYMES,4200,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+IPL,4145,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+PAISALO,4138,Finance,Financial Services,Financial Services,0
+AMIORG,4136,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+DCBBANK,4134,Banks,Financial Services,Financial Services,0
+LAOPALA,4128,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SINDHUTRAD,4125,Diversified,Diversified,Diversified,0
+AZAD,4088,Electrical Equipment,Capital Goods,Industrials,0
+THANGAMAYL,4088,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SHARDACROP,4080,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+EPIGRAL,4076,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SSWL,4074,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+TDPOWERSYS,4065,Electrical Equipment,Capital Goods,Industrials,0
+TARC,4013,Realty,Realty,Consumer Discretionary,0
+JTLIND,4010,Industrial Products,Capital Goods,Industrials,0
+FCL,4007,Chemicals & Petrochemicals,Chemicals,Commodities,0
+VMART,4003,Retailing,Consumer Services,Consumer Discretionary,0
+TIMETECHNO,4001,Industrial Products,Capital Goods,Industrials,0
+RAJRATAN,3950,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+LGBBROSLTD,3943,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+NUCLEUS,3941,IT - Software,Information Technology,Information Technology,0
+DELTACORP,3912,Leisure Services,Consumer Services,Consumer Discretionary,1
+WABAG,3909,Other Utilities,Utilities,Utilities,0
+LUXIND,3908,Textiles & Apparels,Textiles,Consumer Discretionary,0
+BCG,3905,IT - Services,Information Technology,Information Technology,0
+ASHOKA,3899,Construction,Construction,Industrials,0
+KIRLPNU,3892,Industrial Products,Capital Goods,Industrials,0
+SHARDAMOTR,3892,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+NEOGEN,3891,Chemicals & Petrochemicals,Chemicals,Commodities,0
+KOLTEPATIL,3884,Realty,Realty,Consumer Discretionary,0
+JTEKTINDIA,3881,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+ITDC,3872,Leisure Services,Consumer Services,Consumer Discretionary,0
+BOROLTD,3861,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+ASHAPURMIN,3845,Minerals & Mining,Metals & Mining,Commodities,0
+SUDARSCHEM,3807,Chemicals & Petrochemicals,Chemicals,Commodities,0
+IFBIND,3780,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SUNFLAG,3762,Ferrous Metals,Metals & Mining,Commodities,0
+HATHWAY,3753,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+TATVA,3752,Chemicals & Petrochemicals,Chemicals,Commodities,0
+HIKAL,3748,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+BALMLAWRIE,3738,Diversified,Diversified,Diversified,0
+BHARATRAS,3736,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+FLAIR,3668,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+HINDWAREAP,3665,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+INDOCO,3634,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+AVALON,3631,Electrical Equipment,Capital Goods,Industrials,0
+SAMHI,3610,Leisure Services,Consumer Services,Consumer Discretionary,0
+ORCHPHARMA,3599,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+KDDL,3592,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+HARSHA,3583,Industrial Products,Capital Goods,Industrials,0
+IDEAFORGE,3582,Aerospace & Defense,Capital Goods,Industrials,0
+SANGHVIMOV,3571,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,0
+BAJAJHIND,3551,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SUBROS,3542,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+ESAFSFB,3537,Banks,Financial Services,Financial Services,0
+EMUDHRA,3533,IT - Services,Information Technology,Information Technology,0
+PILANIINVS,3531,Finance,Financial Services,Financial Services,0
+HLEGLAS,3530,Industrial Manufacturing,Capital Goods,Industrials,0
+GREAVESCOT,3526,Industrial Products,Capital Goods,Industrials,0
+KIRLOSIND,3524,Industrial Products,Capital Goods,Industrials,0
+GULFOILLUB,3506,Petroleum Products,Oil Gas & Consumable Fuels,Energy,0
+UFLEX,3492,Industrial Products,Capital Goods,Industrials,0
+GANESHHOUC,3469,Realty,Realty,Consumer Discretionary,0
+TVSSRICHAK,3465,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+MAITHANALL,3464,Ferrous Metals,Metals & Mining,Commodities,0
+NAVNETEDUL,3457,Printing & Publication,Media Entertainment & Publication,Consumer Discretionary,0
+DYNAMATECH,3451,Industrial Manufacturing,Capital Goods,Industrials,0
+LANDMARK,3437,Automobiles,Automobile and Auto Components,Consumer Discretionary,0
+KSCL,3417,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+TASTYBITE,3413,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SAKSOFT,3412,IT - Software,Information Technology,Information Technology,0
+THYROCARE,3410,Healthcare Services,Healthcare,Healthcare,0
+GMRP&UI,3386,Construction,Construction,Industrials,0
+TATAMETALI,3382,Ferrous Metals,Metals & Mining,Commodities,0
+CARTRADE,3362,Retailing,Consumer Services,Consumer Discretionary,0
+DISHTV,3360,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+NILKAMAL,3358,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+DALMIASUG,3327,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SAGCEM,3325,Cement & Cement Products,Construction Materials,Commodities,0
+TRIL,3322,Electrical Equipment,Capital Goods,Industrials,0
+DCXINDIA,3305,Aerospace & Defense,Capital Goods,Industrials,0
+POLYPLEX,3291,Industrial Products,Capital Goods,Industrials,0
+SHALBY,3282,Healthcare Services,Healthcare,Healthcare,0
+SANGHIIND,3278,Cement & Cement Products,Construction Materials,Commodities,0
+NRBBEARING,3276,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+VSTTILLERS,3264,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,0
+SUNDARMHLD,3262,Finance,Financial Services,Financial Services,0
+GRWRHITECH,3250,Industrial Products,Capital Goods,Industrials,0
+YATHARTH,3244,Healthcare Services,Healthcare,Healthcare,0
+AUTOAXLES,3236,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+BOMDYEING,3202,Textiles & Apparels,Textiles,Consumer Discretionary,0
+BANARISUG,3198,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+APOLLO,3184,Aerospace & Defense,Capital Goods,Industrials,0
+SBCL,3177,Industrial Products,Capital Goods,Industrials,0
+PFOCUS,3175,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+GUFICBIO,3170,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+BAJAJCON,3138,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GENSOL,3138,Electrical Equipment,Capital Goods,Industrials,0
+INNOVACAP,3104,,,,0
+INOXGREEN,3076,Other Utilities,Utilities,Utilities,0
+SUNCLAY,3059,,,,0
+SOMANYCERA,3050,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+JCHAC,3033,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+MOLDTKPAC,3023,Industrial Products,Capital Goods,Industrials,0
+DIVGIITTS,3009,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+PRAKASH,2991,Ferrous Metals,Metals & Mining,Commodities,0
+SANDHAR,2967,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+SWARAJENG,2931,Industrial Products,Capital Goods,Industrials,0
+GREENPLY,2929,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+WENDT,2920,Industrial Products,Capital Goods,Industrials,0
+STYLAMIND,2918,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+CIGNITITEC,2906,IT - Services,Information Technology,Information Technology,0
+MPSLTD,2906,Other Consumer Services,Consumer Services,Consumer Discretionary,0
+KINGFA,2882,Industrial Products,Capital Goods,Industrials,0
+UNICHEMLAB,2879,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+DREAMFOLKS,2869,Transport Infrastructure,Services,Services,0
+SEPC,2868,Construction,Construction,Industrials,0
+IFGLEXPOR,2865,Industrial Products,Capital Goods,Industrials,0
+MUKANDLTD,2862,Ferrous Metals,Metals & Mining,Commodities,0
+SHILPAMED,2856,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+IMAGICAA,2855,Leisure Services,Consumer Services,Consumer Discretionary,0
+VENUSPIPES,2848,Industrial Products,Capital Goods,Industrials,0
+SEQUENT,2846,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+CARERATING,2834,Capital Markets,Financial Services,Financial Services,0
+PGIL,2829,Textiles & Apparels,Textiles,Consumer Discretionary,0
+HERITGFOOD,2819,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+TARSONS,2804,Healthcare Equipment & Supplies,Healthcare,Healthcare,0
+PARAS,2802,Aerospace & Defense,Capital Goods,Industrials,0
+BSHSL,2797,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+MAHLOG,2781,Transport Services,Services,Services,0
+JINDALPOLY,2769,Industrial Products,Capital Goods,Industrials,0
+FIEMIND,2764,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+PSPPROJECT,2754,Construction,Construction,Industrials,0
+VENKEYS,2754,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+BBL,2749,Electrical Equipment,Capital Goods,Industrials,0
+ISMTLTD,2748,Industrial Products,Capital Goods,Industrials,0
+PARAGMILK,2747,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ZAGGLE,2734,IT - Services,Information Technology,Information Technology,0
+DEN,2727,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+ASHIANA,2719,Realty,Realty,Consumer Discretionary,0
+IOLCP,2712,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+APOLLOPIPE,2710,Industrial Products,Capital Goods,Industrials,0
+ANUP,2710,Industrial Manufacturing,Capital Goods,Industrials,0
+VPRPL,2701,Construction,Construction,Industrials,0
+PFS,2701,Finance,Financial Services,Financial Services,0
+SEAMECLTD,2696,Transport Services,Services,Services,0
+IMFA,2690,Ferrous Metals,Metals & Mining,Commodities,0
+DCAL,2672,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+GANDHAR,2669,Petroleum Products,Oil Gas & Consumable Fuels,Energy,0
+GOODLUCK,2665,Industrial Products,Capital Goods,Industrials,0
+SATIN,2664,Finance,Financial Services,Financial Services,0
+OPTIEMUS,2657,Telecom - Equipment & Accessories,Telecommunication,Telecommunication,0
+APCOTEXIND,2653,Industrial Products,Capital Goods,Industrials,0
+GIPCL,2645,Power,Power,Utilities,0
+BARBEQUE,2624,Leisure Services,Consumer Services,Consumer Discretionary,0
+DOLLAR,2614,Textiles & Apparels,Textiles,Consumer Discretionary,0
+UNIPARTS,2610,Industrial Manufacturing,Capital Goods,Industrials,0
+LUMAXTECH,2605,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+MBAPL,2589,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+VINDHYATEL,2589,Telecom - Services,Telecommunication,Telecommunication,0
+GOCLCORP,2555,Chemicals & Petrochemicals,Chemicals,Commodities,0
+CONFIPET,2544,Gas,Oil Gas & Consumable Fuels,Energy,0
+STYRENIX,2543,Chemicals & Petrochemicals,Chemicals,Commodities,0
+DIAMONDYD,2536,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SUPRIYA,2535,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+EVEREADY,2522,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GLOBUSSPR,2514,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+BEPL,2505,Chemicals & Petrochemicals,Chemicals,Commodities,0
+UGROCAP,2503,Finance,Financial Services,Financial Services,0
+MUFIN,2490,Finance,Financial Services,Financial Services,0
+MOREPENLAB,2489,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+MAYURUNIQ,2478,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+PARACABLES,2465,Industrial Products,Capital Goods,Industrials,0
+TIDEWATER,2464,Petroleum Products,Oil Gas & Consumable Fuels,Energy,0
+AXISCADES,2461,IT - Services,Information Technology,Information Technology,0
+IKIO,2458,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+FOSECOIND,2456,Chemicals & Petrochemicals,Chemicals,Commodities,0
+REPCOHOME,2447,Finance,Financial Services,Financial Services,0
+ARTEMISMED,2445,Healthcare Services,Healthcare,Healthcare,0
+SOTL,2435,Petroleum Products,Oil Gas & Consumable Fuels,Energy,0
+ANDHRAPAP,2426,Paper Forest & Jute Products,Forest Materials,Commodities,0
+HONDAPOWER,2422,Industrial Manufacturing,Capital Goods,Industrials,0
+SIYSIL,2418,Textiles & Apparels,Textiles,Consumer Discretionary,0
+HINDOILEXP,2414,Oil,Oil Gas & Consumable Fuels,Energy,0
+ARMANFIN,2376,Finance,Financial Services,Financial Services,0
+PRECAM,2375,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+INDIAGLYCO,2375,Chemicals & Petrochemicals,Chemicals,Commodities,0
+TCNSBRANDS,2375,Textiles & Apparels,Textiles,Consumer Discretionary,0
+EMSLIMITED,2355,Other Utilities,Utilities,Utilities,0
+SKIPPER,2353,Electrical Equipment,Capital Goods,Industrials,0
+DHANI,2341,Finance,Financial Services,Financial Services,0
+MMFL,2340,Industrial Products,Capital Goods,Industrials,0
+VISHNU,2339,Chemicals & Petrochemicals,Chemicals,Commodities,0
+LUMAXIND,2320,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+ALEMBICLTD,2319,Realty,Realty,Consumer Discretionary,0
+KRSNAA,2282,Healthcare Services,Healthcare,Healthcare,0
+CAMLINFINE,2274,Chemicals & Petrochemicals,Chemicals,Commodities,0
+PITTIENG,2262,Industrial Manufacturing,Capital Goods,Industrials,0
+MANORAMA,2258,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+YATRA,2252,Leisure Services,Consumer Services,Consumer Discretionary,0
+TIRUMALCHM,2244,Chemicals & Petrochemicals,Chemicals,Commodities,0
+UDS,2242,Commercial Services & Supplies,Services,Services,0
+SIRCA,2242,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SESHAPAPER,2234,Paper Forest & Jute Products,Forest Materials,Commodities,0
+BFUTILITIE,2219,Transport Infrastructure,Services,Services,0
+IRMENERGY,2214,Gas,Oil Gas & Consumable Fuels,Energy,0
+RISHABH,2214,Electrical Equipment,Capital Goods,Industrials,0
+RPGLIFE,2209,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+CARYSIL,2204,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SDBL,2204,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ADFFOODS,2197,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ORIENTHOT,2187,Leisure Services,Consumer Services,Consumer Discretionary,0
+FILATEX,2179,Textiles & Apparels,Textiles,Consumer Discretionary,0
+RPSGVENT,2172,Commercial Services & Supplies,Services,Services,0
+63MOONS,2171,IT - Software,Information Technology,Information Technology,0
+HUHTAMAKI,2167,Industrial Products,Capital Goods,Industrials,0
+EVERESTIND,2165,Cement & Cement Products,Construction Materials,Commodities,0
+FINOPB,2164,Banks,Financial Services,Financial Services,0
+PCJEWELLER,2164,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+GTPL,2159,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+SADHNANIQ,2159,Chemicals & Petrochemicals,Chemicals,Commodities,0
+PRECWIRE,2158,Industrial Products,Capital Goods,Industrials,0
+ASTEC,2157,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+SANGAMIND,2156,Textiles & Apparels,Textiles,Consumer Discretionary,0
+XPROINDIA,2148,Industrial Products,Capital Goods,Industrials,0
+JINDRILL,2147,Oil,Oil Gas & Consumable Fuels,Energy,0
+GANECOS,2144,Textiles & Apparels,Textiles,Consumer Discretionary,0
+RUPA,2138,Textiles & Apparels,Textiles,Consumer Discretionary,0
+GREENPOWER,2138,Power,Power,Utilities,0
+MTNL,2120,Telecom - Services,Telecommunication,Telecommunication,0
+KSL,2119,Industrial Products,Capital Goods,Industrials,0
+HIL,2119,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+ATFL,2118,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ACCELYA,2116,IT - Software,Information Technology,Information Technology,0
+SASKEN,2113,IT - Services,Information Technology,Information Technology,0
+BHARATWIRE,2099,Industrial Products,Capital Goods,Industrials,0
+INDOSTAR,2083,Finance,Financial Services,Financial Services,0
+SHRIRAMPPS,2081,Realty,Realty,Consumer Discretionary,0
+VIDHIING,2080,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SALASAR,2079,Industrial Manufacturing,Capital Goods,Industrials,0
+KIRIINDUS,2068,Chemicals & Petrochemicals,Chemicals,Commodities,0
+TNPL,2066,Paper Forest & Jute Products,Forest Materials,Commodities,0
+ADORWELD,2060,Industrial Products,Capital Goods,Industrials,0
+TCPLPACK,2057,Industrial Products,Capital Goods,Industrials,0
+JAGRAN,2044,Media,Media Entertainment & Publication,Consumer Discretionary,0
+RIIL,2038,Transport Services,Services,Services,0
+MANGLMCEM,2036,Cement & Cement Products,Construction Materials,Commodities,0
+TTKHLTCARE,2035,Diversified,Diversified,Diversified,0
+EXPLEOSOL,2014,IT - Services,Information Technology,Information Technology,0
+INSECTICID,2013,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+SHK,2010,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+BFINVEST,2009,Finance,Financial Services,Financial Services,0
+PANAMAPET,2008,Petroleum Products,Oil Gas & Consumable Fuels,Energy,0
+FMGOETZE,2008,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+VAKRANGEE,2008,IT - Services,Information Technology,Information Technology,0
+AEROFLEX,2006,Industrial Products,Capital Goods,Industrials,0
+THEJO,1999,Industrial Manufacturing,Capital Goods,Industrials,0
+VERANDA,1983,Other Consumer Services,Consumer Services,Consumer Discretionary,0
+KCP,1982,Cement & Cement Products,Construction Materials,Commodities,0
+CANTABIL,1981,Textiles & Apparels,Textiles,Consumer Discretionary,0
+MOL,1971,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+MARATHON,1962,Realty,Realty,Consumer Discretionary,0
+SJS,1952,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+THEMISMED,1943,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+ARVSMART,1939,Realty,Realty,Consumer Discretionary,0
+QUICKHEAL,1926,IT - Software,Information Technology,Information Technology,0
+SMLISUZU,1915,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,0
+GNA,1914,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+DPSCLTD,1909,Power,Power,Utilities,0
+SUBEXLTD,1908,IT - Software,Information Technology,Information Technology,0
+RAMCOIND,1901,Other Construction Materials,Construction Materials,Commodities,0
+SHAKTIPUMP,1901,Industrial Products,Capital Goods,Industrials,0
+JASH,1878,Industrial Manufacturing,Capital Goods,Industrials,0
+GEOJITFSL,1878,Capital Markets,Financial Services,Financial Services,0
+YASHO,1861,Chemicals & Petrochemicals,Chemicals,Commodities,0
+MUFTI,1859,Retailing,Consumer Services,Consumer Discretionary,0
+BUTTERFLY,1857,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+TALBROAUTO,1840,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+CAPACITE,1839,Construction,Construction,Industrials,0
+RANEHOLDIN,1830,Finance,Financial Services,Financial Services,0
+GOKULAGRO,1826,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GOLDIAM,1823,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+NITINSPIN,1822,Textiles & Apparels,Textiles,Consumer Discretionary,0
+NELCO,1816,IT - Hardware,Information Technology,Information Technology,0
+VADILALIND,1804,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+MADRASFERT,1783,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+HLVLTD,1780,Leisure Services,Consumer Services,Consumer Discretionary,0
+VSSL,1773,Industrial Products,Capital Goods,Industrials,0
+ROSSELLIND,1772,Aerospace & Defense,Capital Goods,Industrials,0
+RAMASTEEL,1771,Industrial Products,Capital Goods,Industrials,0
+SUVEN,1760,Healthcare Services,Healthcare,Healthcare,0
+5PAISA,1760,Capital Markets,Financial Services,Financial Services,0
+UNITECH,1753,Realty,Realty,Consumer Discretionary,0
+PNBGILTS,1751,Finance,Financial Services,Financial Services,0
+PIXTRANS,1747,Industrial Products,Capital Goods,Industrials,0
+CENTUM,1740,Industrial Manufacturing,Capital Goods,Industrials,0
+AMRUTANJAN,1736,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+HARIOMPIPE,1731,Industrial Products,Capital Goods,Industrials,0
+BCLIND,1718,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+MANINDS,1717,Industrial Products,Capital Goods,Industrials,0
+PREMEXPLN,1709,Chemicals & Petrochemicals,Chemicals,Commodities,0
+WHEELS,1699,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+NDTV,1691,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+NSIL,1683,Finance,Financial Services,Financial Services,0
+SPCENET,1682,Commercial Services & Supplies,Services,Services,0
+DHAMPURSUG,1682,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+PENIND,1679,Industrial Manufacturing,Capital Goods,Industrials,0
+DREDGECORP,1677,Engineering Services,Services,Services,0
+DCW,1672,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SURYODAY,1666,Banks,Financial Services,Financial Services,0
+GTLINFRA,1665,Telecom - Services,Telecommunication,Telecommunication,0
+HIMATSEIDE,1663,Textiles & Apparels,Textiles,Consumer Discretionary,0
+UNIVCABLES,1657,Industrial Products,Capital Goods,Industrials,0
+DEEPINDS,1645,Oil,Oil Gas & Consumable Fuels,Energy,0
+SICALLOG,1645,Transport Services,Services,Services,0
+DWARKESH,1640,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SERVOTECH,1635,Electrical Equipment,Capital Goods,Industrials,0
+SHANKARA,1634,Retailing,Consumer Services,Consumer Discretionary,0
+IGARASHI,1627,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+PUNJABCHEM,1625,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+FAIRCHEMOR,1624,Chemicals & Petrochemicals,Chemicals,Commodities,0
+ACLGATI,1613,Transport Services,Services,Services,0
+COSMOFIRST,1602,Industrial Products,Capital Goods,Industrials,0
+BHAGCHEM,1602,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+AHL,1600,Finance,Financial Services,Financial Services,0
+CONTROLPR,1599,IT - Hardware,Information Technology,Information Technology,0
+GVKPIL,1595,Construction,Construction,Industrials,0
+HPL,1595,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+HERANBA,1593,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+INDRAMEDCO,1593,Healthcare Services,Healthcare,Healthcare,0
+HITECH,1588,Industrial Products,Capital Goods,Industrials,0
+ATULAUTO,1584,Agricultural Commercial & Construction Vehicles,Capital Goods,Industrials,0
+SIGACHI,1582,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SPIC,1570,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+MVGJL,1563,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+VASCONEQ,1557,Construction,Construction,Industrials,0
+GENESYS,1550,IT - Services,Information Technology,Information Technology,0
+NIITLTD,1549,Other Consumer Services,Consumer Services,Consumer Discretionary,0
+AJMERA,1547,Realty,Realty,Consumer Discretionary,0
+UTTAMSUGAR,1543,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+GEPIL,1538,Electrical Equipment,Capital Goods,Industrials,0
+NAVKARCORP,1535,Transport Services,Services,Services,0
+BAJEL,1529,Power,Power,Utilities,0
+SHAILY,1527,Industrial Products,Capital Goods,Industrials,0
+SPAL,1518,Textiles & Apparels,Textiles,Consumer Discretionary,0
+ANDHRSUGAR,1515,Chemicals & Petrochemicals,Chemicals,Commodities,0
+APTECHT,1513,Other Consumer Services,Consumer Services,Consumer Discretionary,0
+KUANTUM,1501,Paper Forest & Jute Products,Forest Materials,Commodities,0
+KITEX,1499,Textiles & Apparels,Textiles,Consumer Discretionary,0
+KRISHANA,1499,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+CUPID,1494,Personal Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+DPABHUSHAN,1491,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SHALPAINTS,1490,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+POKARNA,1488,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+MONARCH,1487,Capital Markets,Financial Services,Financial Services,0
+STOVEKRAFT,1487,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+KABRAEXTRU,1485,Industrial Manufacturing,Capital Goods,Industrials,0
+MONTECARLO,1476,Textiles & Apparels,Textiles,Consumer Discretionary,0
+OMINFRAL,1467,Construction,Construction,Industrials,0
+SURAJEST,1464,Realty,Realty,Consumer Discretionary,0
+PENINLAND,1463,Realty,Realty,Consumer Discretionary,0
+NACLIND,1462,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+KOKUYOCMLN,1453,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+MANGCHEFER,1448,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+BLKASHYAP,1441,Construction,Construction,Industrials,0
+IGPL,1438,Chemicals & Petrochemicals,Chemicals,Commodities,0
+KICL,1437,Finance,Financial Services,Financial Services,0
+TAJGVK,1435,Leisure Services,Consumer Services,Consumer Discretionary,0
+SYNCOMF,1429,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+EKC,1425,Industrial Manufacturing,Capital Goods,Industrials,0
+JITFINFRA,1424,Other Utilities,Utilities,Utilities,0
+HARDWYN,1422,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+EIHAHOTELS,1411,Leisure Services,Consumer Services,Consumer Discretionary,0
+ONWARDTEC,1406,IT - Services,Information Technology,Information Technology,0
+ALICON,1401,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+KSOLVES,1399,IT - Software,Information Technology,Information Technology,0
+AVTNPL,1392,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SATIA,1388,Paper Forest & Jute Products,Forest Materials,Commodities,0
+SUMMITSEC,1385,Finance,Financial Services,Financial Services,0
+VALIANTORG,1384,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SHREDIGCEM,1380,Cement & Cement Products,Construction Materials,Commodities,0
+NELCAST,1379,Industrial Products,Capital Goods,Industrials,0
+AGARIND,1378,Chemicals & Petrochemicals,Chemicals,Commodities,0
+AWHCL,1377,Other Utilities,Utilities,Utilities,0
+NGLFINE,1367,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+MANALIPETC,1362,Chemicals & Petrochemicals,Chemicals,Commodities,0
+INDORAMA,1362,Textiles & Apparels,Textiles,Consumer Discretionary,0
+HEUBACHIND,1360,Chemicals & Petrochemicals,Chemicals,Commodities,0
+OMAXE,1353,Realty,Realty,Consumer Discretionary,0
+COFFEEDAY,1347,Leisure Services,Consumer Services,Consumer Discretionary,0
+TEXINFRA,1338,Diversified,Diversified,Diversified,0
+DCMSRIND,1337,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+AVADHSUGAR,1337,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+OAL,1333,Chemicals & Petrochemicals,Chemicals,Commodities,0
+RML,1332,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+REFEX,1330,Chemicals & Petrochemicals,Chemicals,Commodities,0
+GULPOLY,1321,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ROTO,1321,Industrial Products,Capital Goods,Industrials,0
+MARINE,1316,Industrial Manufacturing,Capital Goods,Industrials,0
+RAMRAT,1315,Electrical Equipment,Capital Goods,Industrials,0
+SASTASUNDR,1301,Healthcare Services,Healthcare,Healthcare,0
+SATINDLTD,1300,Industrial Products,Capital Goods,Industrials,0
+BLISSGVS,1297,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SOLARA,1296,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+GMBREW,1294,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+MATRIMONY,1292,Retailing,Consumer Services,Consumer Discretionary,0
+ATL,1286,Transport Infrastructure,Services,Services,0
+STERTOOLS,1285,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+INDIANHUME,1283,Industrial Manufacturing,Capital Goods,Industrials,0
+CLSEL,1278,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+TVTODAY,1275,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+REPRO,1262,Printing & Publication,Media Entertainment & Publication,Consumer Discretionary,0
+IMPAL,1260,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+STEELCAS,1253,Industrial Products,Capital Goods,Industrials,0
+HESTERBIO,1242,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+LINCOLN,1226,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+ZOTA,1217,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+INDNIPPON,1210,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+XCHANGING,1203,IT - Software,Information Technology,Information Technology,0
+STEELXIND,1190,Industrial Products,Capital Goods,Industrials,0
+CENTRUM,1179,Finance,Financial Services,Financial Services,0
+FOCUS,1174,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+RICOAUTO,1174,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+KOPRAN,1164,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+BIGBLOC,1161,Cement & Cement Products,Construction Materials,Commodities,0
+JAYBARMARU,1158,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+GICHSGFIN,1157,Finance,Financial Services,Financial Services,0
+TFCILTD,1152,Finance,Financial Services,Financial Services,0
+SHIVALIK,1151,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+DLINKINDIA,1149,IT - Hardware,Information Technology,Information Technology,0
+ONMOBILE,1141,Telecom - Services,Telecommunication,Telecommunication,0
+EXCELINDUS,1140,Chemicals & Petrochemicals,Chemicals,Commodities,0
+HERCULES,1136,Industrial Manufacturing,Capital Goods,Industrials,0
+GRMOVER,1134,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ARIHANTSUP,1128,Realty,Realty,Consumer Discretionary,0
+TRACXN,1128,Commercial Services & Supplies,Services,Services,0
+TREL,1115,Transport Services,Services,Services,0
+DVL,1114,Diversified,Diversified,Diversified,0
+UNIENTER,1114,Chemicals & Petrochemicals,Chemicals,Commodities,0
+AGSTRA,1107,Financial Technology (Fintech),Financial Services,Financial Services,0
+LIKHITHA,1105,Construction,Construction,Industrials,0
+DOLATALGO,1101,Capital Markets,Financial Services,Financial Services,0
+GANESHBE,1100,Oil,Oil Gas & Consumable Fuels,Energy,0
+SKYGOLD,1096,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+KAMOPAINTS,1078,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+FAZE3Q,1075,Textiles & Apparels,Textiles,Consumer Discretionary,0
+CHEMCON,1074,Chemicals & Petrochemicals,Chemicals,Commodities,0
+GFLLIMITED,1071,Finance,Financial Services,Financial Services,0
+SMCGLOBAL,1065,Capital Markets,Financial Services,Financial Services,0
+CONSOFINVT,1064,Finance,Financial Services,Financial Services,0
+INFOBEAN,1062,IT - Software,Information Technology,Information Technology,0
+SNOWMAN,1061,Transport Services,Services,Services,0
+ASIANENE,1060,Oil,Oil Gas & Consumable Fuels,Energy,0
+CREATIVE,1057,Commercial Services & Supplies,Services,Services,0
+RAJRILTD,1057,Textiles & Apparels,Textiles,Consumer Discretionary,0
+NINSYS,1053,IT - Software,Information Technology,Information Technology,0
+V2RETAIL,1048,Retailing,Consumer Services,Consumer Discretionary,0
+SPORTKING,1048,Textiles & Apparels,Textiles,Consumer Discretionary,0
+MKPL,1045,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SBGLP,1044,Realty,Realty,Consumer Discretionary,0
+RUSHIL,1042,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+BAJAJHCARE,1040,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+BODALCHEM,1039,Chemicals & Petrochemicals,Chemicals,Commodities,0
+WEBELSOLAR,1037,Electrical Equipment,Capital Goods,Industrials,0
+CSLFINANCE,1033,Finance,Financial Services,Financial Services,0
+RSWM,1027,Textiles & Apparels,Textiles,Consumer Discretionary,0
+RAMCOSYS,1027,IT - Software,Information Technology,Information Technology,0
+PANACEABIO,1026,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+NAHARSPING,1022,Textiles & Apparels,Textiles,Consumer Discretionary,0
+JAGSNPHARM,1022,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SKMEGGPROD,1021,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+DBOL,1014,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ACL,1008,Cement & Cement Products,Construction Materials,Commodities,0
+SMSPHARMA,1007,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+NCLIND,1004,Cement & Cement Products,Construction Materials,Commodities,0
+VHL,1000,Finance,Financial Services,Financial Services,0
+NDRAUTO,999,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+LINC,996,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ONEPOINT,994,Commercial Services & Supplies,Services,Services,0
+ALLSEC,992,Commercial Services & Supplies,Services,Services,0
+RGL,986,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+AMBIKCO,986,Textiles & Apparels,Textiles,Consumer Discretionary,0
+KAMDHENU,983,Industrial Products,Capital Goods,Industrials,0
+KELLTONTEC,980,IT - Software,Information Technology,Information Technology,0
+SPENCERS,978,Retailing,Consumer Services,Consumer Discretionary,0
+ICEMAKE,972,Industrial Manufacturing,Capital Goods,Industrials,0
+MOTISONS,966,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SRHHYPOLTD,965,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SCHAND,961,Printing & Publication,Media Entertainment & Publication,Consumer Discretionary,0
+GPTINFRA,960,Construction,Construction,Industrials,0
+ASIANTILES,959,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+MAGADSUGAR,958,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SUTLEJTEX,958,Textiles & Apparels,Textiles,Consumer Discretionary,0
+DYCL,954,Industrial Products,Capital Goods,Industrials,0
+RADIANTCMS,952,Commercial Services & Supplies,Services,Services,0
+PPL,952,Industrial Products,Capital Goods,Industrials,0
+E2E,952,IT - Services,Information Technology,Information Technology,0
+CENTENKA,946,Textiles & Apparels,Textiles,Consumer Discretionary,0
+ZEEMEDIA,944,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+GANDHITUBE,942,Industrial Products,Capital Goods,Industrials,0
+MSPL,938,Industrial Products,Capital Goods,Industrials,0
+YUKEN,930,Industrial Products,Capital Goods,Industrials,0
+EIMCOELECO,926,Industrial Manufacturing,Capital Goods,Industrials,0
+HIRECT,922,Industrial Manufacturing,Capital Goods,Industrials,0
+TRU,922,Finance,Financial Services,Financial Services,0
+AMNPLST,922,Chemicals & Petrochemicals,Chemicals,Commodities,0
+UGARSUGAR,921,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ORIENTPPR,921,Paper Forest & Jute Products,Forest Materials,Commodities,0
+HPAL,919,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SREEL,918,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SPECIALITY,906,Leisure Services,Consumer Services,Consumer Discretionary,0
+JUBLINDS,904,Chemicals & Petrochemicals,Chemicals,Commodities,0
+TNPETRO,904,Chemicals & Petrochemicals,Chemicals,Commodities,0
+VIMTALABS,896,Healthcare Services,Healthcare,Healthcare,0
+DPWIRES,895,Industrial Products,Capital Goods,Industrials,0
+WINDLAS,890,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+INDOAMIN,890,Chemicals & Petrochemicals,Chemicals,Commodities,0
+DHARMAJ,889,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+SILVERTUC,884,IT - Services,Information Technology,Information Technology,0
+GKWLIMITED,879,Finance,Financial Services,Financial Services,0
+ASALCBR,876,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ENIL,875,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+ROHLTD,874,Leisure Services,Consumer Services,Consumer Discretionary,0
+KERNEX,872,Transport Services,Services,Services,0
+WALCHANNAG,871,Industrial Manufacturing,Capital Goods,Industrials,0
+MUNJALAU,870,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+BLAL,870,Finance,Financial Services,Financial Services,0
+MANAKSIA,867,Industrial Products,Capital Goods,Industrials,0
+CHEVIOT,866,Paper Forest & Jute Products,Forest Materials,Commodities,0
+FOODSIN,859,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+PAKKA,859,Paper Forest & Jute Products,Forest Materials,Commodities,0
+HITECHGEAR,856,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+BIRLACABLE,856,Telecom - Equipment & Accessories,Telecommunication,Telecommunication,0
+TBZ,854,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+HEXATRADEX,854,Finance,Financial Services,Financial Services,0
+KOTHARIPET,853,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SAKAR,852,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SANDESH,850,Media,Media Entertainment & Publication,Consumer Discretionary,0
+BCONCEPTS,848,Retailing,Consumer Services,Consumer Discretionary,0
+DIACABS,844,Electrical Equipment,Capital Goods,Industrials,0
+3IINFOLTD,835,IT - Software,Information Technology,Information Technology,0
+VINYLINDIA,834,Chemicals & Petrochemicals,Chemicals,Commodities,0
+OCCL,832,Chemicals & Petrochemicals,Chemicals,Commodities,0
+DMCC,826,Chemicals & Petrochemicals,Chemicals,Commodities,0
+STCINDIA,824,Commercial Services & Supplies,Services,Services,0
+DENORA,818,Industrial Products,Capital Goods,Industrials,0
+CREST,815,Finance,Financial Services,Financial Services,0
+SWELECTES,804,Electrical Equipment,Capital Goods,Industrials,0
+DECCANCE,797,Cement & Cement Products,Construction Materials,Commodities,0
+ZUARI,791,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+DSSL,790,IT - Services,Information Technology,Information Technology,0
+MOLDTECH,784,IT - Services,Information Technology,Information Technology,0
+RUBYMILLS,781,Textiles & Apparels,Textiles,Consumer Discretionary,0
+MENONBE,774,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+DHANBANK,774,Banks,Financial Services,Financial Services,0
+NAGAFERT,772,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+URJA,772,Electrical Equipment,Capital Goods,Industrials,0
+MAANALU,770,Non - Ferrous Metals,Metals & Mining,Commodities,0
+MEDICAMEQ,769,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SUKHJITS,769,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+PLASTIBLEN,764,Chemicals & Petrochemicals,Chemicals,Commodities,0
+GSLSU,763,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+ADSL,755,IT - Services,Information Technology,Information Technology,0
+VALIANTLAB,753,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+BALAJITELE,753,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+MICEL,751,Industrial Manufacturing,Capital Goods,Industrials,0
+JAYAGROGN,750,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SELAN,749,Oil,Oil Gas & Consumable Fuels,Energy,0
+VISAKAIND,748,Cement & Cement Products,Construction Materials,Commodities,0
+KECL,738,Electrical Equipment,Capital Goods,Industrials,0
+ESTER,736,Industrial Products,Capital Goods,Industrials,0
+ELIN,734,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+INDOBORAX,731,Chemicals & Petrochemicals,Chemicals,Commodities,0
+ARIHANTCAP,727,Capital Markets,Financial Services,Financial Services,0
+EMAMIPAP,726,Paper Forest & Jute Products,Forest Materials,Commodities,0
+DHUNINV,722,Finance,Financial Services,Financial Services,0
+NECLIFE,720,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SEMAC,719,Industrial Manufacturing,Capital Goods,Industrials,0
+VIKASLIFE,718,Commercial Services & Supplies,Services,Services,0
+ELDEHSG,713,Realty,Realty,Consumer Discretionary,0
+BHAGERIA,712,Chemicals & Petrochemicals,Chemicals,Commodities,0
+VLSFINANCE,710,Finance,Financial Services,Financial Services,0
+PYRAMID,710,Industrial Products,Capital Goods,Industrials,0
+SHREEPUSHK,710,Chemicals & Petrochemicals,Chemicals,Commodities,0
+FCSSOFT,709,IT - Services,Information Technology,Information Technology,0
+MAXIND,708,Finance,Financial Services,Financial Services,0
+CHEMBOND,703,Chemicals & Petrochemicals,Chemicals,Commodities,0
+INDOTECH,703,Electrical Equipment,Capital Goods,Industrials,0
+BGRENERGY,701,Construction,Construction,Industrials,0
+APEX,700,Food Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+MEDICO,697,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+MALLCOM,683,Industrial Products,Capital Goods,Industrials,0
+AXITA,676,Textiles & Apparels,Textiles,Consumer Discretionary,0
+SALZERELEC,675,Electrical Equipment,Capital Goods,Industrials,0
+OSWALGREEN,674,Finance,Financial Services,Financial Services,0
+KHAICHEM,672,Fertilizers & Agrochemicals,Chemicals,Commodities,0
+NRAIL,672,Paper Forest & Jute Products,Forest Materials,Commodities,0
+KAMATHOTEL,672,Leisure Services,Consumer Services,Consumer Discretionary,0
+HCL-INSYS,672,IT - Hardware,Information Technology,Information Technology,0
+HMVL,671,Media,Media Entertainment & Publication,Consumer Discretionary,0
+HINDCOMPOS,668,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+GHCLTEXTIL,666,Textiles & Apparels,Textiles,Consumer Discretionary,0
+ASAL,664,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+TVSELECT,663,IT - Hardware,Information Technology,Information Technology,0
+IRISDOREME,663,Textiles & Apparels,Textiles,Consumer Discretionary,0
+ESSARSHPNG,662,Transport Services,Services,Services,0
+RBL,659,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+RITCO,658,Transport Services,Services,Services,0
+JETAIRWAYS,657,Transport Services,Services,Services,0
+ARROWGREEN,656,Industrial Products,Capital Goods,Industrials,0
+DIGISPICE,656,IT - Services,Information Technology,Information Technology,0
+JPOLYINVST,651,Finance,Financial Services,Financial Services,0
+VERTOZ,650,Media,Media Entertainment & Publication,Consumer Discretionary,0
+LOKESHMACH,648,Industrial Manufacturing,Capital Goods,Industrials,0
+MIRZAINT,643,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+GRPLTD,640,Industrial Products,Capital Goods,Industrials,0
+VLEGOV,639,IT - Services,Information Technology,Information Technology,0
+KHADIM,638,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+HUBTOWN,636,Realty,Realty,Consumer Discretionary,0
+SBC,635,Commercial Services & Supplies,Services,Services,0
+20MICRONS,630,Minerals & Mining,Metals & Mining,Commodities,0
+DEEPENR,626,Oil,Oil Gas & Consumable Fuels,Energy,0
+APCL,623,Cement & Cement Products,Construction Materials,Commodities,0
+RACE,621,Other Utilities,Utilities,Utilities,0
+MUTHOOTCAP,618,Finance,Financial Services,Financial Services,0
+GLOBAL,617,Other Consumer Services,Consumer Services,Consumer Discretionary,0
+SHREYAS,615,Transport Services,Services,Services,0
+INDSWFTLAB,610,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+JINDALPHOT,609,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+ORIENTCER,607,Industrial Products,Capital Goods,Industrials,0
+THEINVEST,601,Finance,Financial Services,Financial Services,0
+MACPOWER,598,Industrial Manufacturing,Capital Goods,Industrials,0
+STEL,597,Finance,Financial Services,Financial Services,0
+HTMEDIA,596,Media,Media Entertainment & Publication,Consumer Discretionary,0
+KILITCH,595,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+ORIENTBELL,593,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+RADIOCITY,593,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+MINDTECK,592,IT - Software,Information Technology,Information Technology,0
+ZUARIIND,590,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+KANORICHEM,590,Chemicals & Petrochemicals,Chemicals,Commodities,0
+OSIAHYPER,588,Retailing,Consumer Services,Consumer Discretionary,0
+BIRLAMONEY,585,Capital Markets,Financial Services,Financial Services,0
+NIPPOBATRY,583,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+POCL,582,Ferrous Metals,Metals & Mining,Commodities,0
+MUNJALSHOW,578,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+INTLCONV,575,Industrial Manufacturing,Capital Goods,Industrials,0
+AARTISURF,570,Chemicals & Petrochemicals,Chemicals,Commodities,0
+CYBERTECH,567,IT - Software,Information Technology,Information Technology,0
+BBTCL,566,Industrial Products,Capital Goods,Industrials,0
+PRIMESECU,565,Finance,Financial Services,Financial Services,0
+RATNAVEER,562,Industrial Products,Capital Goods,Industrials,0
+ZIMLAB,561,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+NAHARPOLY,554,Industrial Products,Capital Goods,Industrials,0
+KRITI,553,Industrial Products,Capital Goods,Industrials,0
+ALBERTDAVD,553,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+WINDMACHIN,552,Industrial Manufacturing,Capital Goods,Industrials,0
+CLEDUCATE,551,Other Consumer Services,Consumer Services,Consumer Discretionary,0
+UNIDT,550,Industrial Manufacturing,Capital Goods,Industrials,0
+PTL,548,Commercial Services & Supplies,Services,Services,0
+WEL,547,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+NAHARINDUS,547,Textiles & Apparels,Textiles,Consumer Discretionary,0
+VENUSREM,544,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+BEDMUTHA,543,Industrial Products,Capital Goods,Industrials,0
+DIAMINESQ,541,Chemicals & Petrochemicals,Chemicals,Commodities,0
+GOKUL,540,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SARVESHWAR,538,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+WSI,535,Industrial Manufacturing,Capital Goods,Industrials,0
+CHEMFAB,531,Chemicals & Petrochemicals,Chemicals,Commodities,0
+MMP,529,Non - Ferrous Metals,Metals & Mining,Commodities,0
+RADHIKAJWE,527,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+MAZDA,526,Industrial Manufacturing,Capital Goods,Industrials,0
+ORICONENT,524,Industrial Products,Capital Goods,Industrials,0
+GOACARBON,523,Minerals & Mining,Metals & Mining,Commodities,0
+PROZONER,520,Realty,Realty,Consumer Discretionary,0
+ASMS,518,IT - Services,Information Technology,Information Technology,0
+EXXARO,518,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+DONEAR,517,Textiles & Apparels,Textiles,Consumer Discretionary,0
+NAHARCAP,515,Finance,Financial Services,Financial Services,0
+DOLPHIN,513,Oil,Oil Gas & Consumable Fuels,Energy,0
+AUTOIND,512,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+BANSWRAS,498,Textiles & Apparels,Textiles,Consumer Discretionary,0
+MEGASOFT,495,Telecom - Services,Telecommunication,Telecommunication,0
+PAVNAIND,494,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+GENUSPAPER,494,Paper Forest & Jute Products,Forest Materials,Commodities,0
+PDMJEPAPER,492,Paper Forest & Jute Products,Forest Materials,Commodities,0
+NDLVENTURE,482,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+SIGMA,482,IT - Services,Information Technology,Information Technology,0
+ORBTEXP,479,Textiles & Apparels,Textiles,Consumer Discretionary,0
+GEECEE,478,Realty,Realty,Consumer Discretionary,0
+VIKASECO,477,Chemicals & Petrochemicals,Chemicals,Commodities,0
+VARDHACRLC,477,Textiles & Apparels,Textiles,Consumer Discretionary,0
+LIBERTSHOE,476,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+ADVANIHOTR,476,Leisure Services,Consumer Services,Consumer Discretionary,0
+UNIVPHOTO,474,Household Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SHIVAMAUTO,474,Auto Components,Automobile and Auto Components,Consumer Discretionary,0
+SOUTHWEST,473,Commercial Services & Supplies,Services,Services,0
+SARLAPOLY,470,Textiles & Apparels,Textiles,Consumer Discretionary,0
+PARSVNATH,468,Realty,Realty,Consumer Discretionary,0
+RBZJEWEL,463,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+IFBAGRO,461,Beverages,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+SGIL,459,Industrial Products,Capital Goods,Industrials,0
+SIMPLEXINF,458,Construction,Construction,Industrials,0
+OSWALAGRO,456,Commercial Services & Supplies,Services,Services,0
+DICIND,454,Chemicals & Petrochemicals,Chemicals,Commodities,0
+SILINV,454,Finance,Financial Services,Financial Services,0
+WEALTH,453,Finance,Financial Services,Financial Services,0
+MODISONLTD,452,Electrical Equipment,Capital Goods,Industrials,0
+NBIFIN,449,Finance,Financial Services,Financial Services,0
+BALAXI,449,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+SAHYADRI,448,Other Construction Materials,Construction Materials,Commodities,0
+ASIANHOTNR,447,Leisure Services,Consumer Services,Consumer Discretionary,0
+AVG,445,Transport Services,Services,Services,0
+RPPINFRA,441,Construction,Construction,Industrials,0
+HITECHCORP,440,Industrial Products,Capital Goods,Industrials,0
+KAYA,440,Leisure Services,Consumer Services,Consumer Discretionary,0
+PLAZACABLE,438,Industrial Products,Capital Goods,Industrials,0
+SHEMAROO,438,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+SHYAMCENT,437,Ferrous Metals,Metals & Mining,Commodities,0
+KOTARISUG,436,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+VISHAL,435,Textiles & Apparels,Textiles,Consumer Discretionary,0
+UFO,435,Entertainment,Media Entertainment & Publication,Consumer Discretionary,0
+KRITINUT,433,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+OSWALSEEDS,433,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+NURECA,428,Healthcare Equipment & Supplies,Healthcare,Healthcare,0
+LORDSCHLO,428,Chemicals & Petrochemicals,Chemicals,Commodities,0
+BIL,422,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+SAKUMA,420,Commercial Services & Supplies,Services,Services,0
+BRNL,420,Construction,Construction,Industrials,0
+BPL,416,Consumer Durables,Consumer Durables,Consumer Discretionary,0
+ALANKIT,414,Commercial Services & Supplies,Services,Services,0
+EMAMIREAL,414,Realty,Realty,Consumer Discretionary,0
+WANBURY,413,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+NRL,412,Metals & Minerals Trading,Metals & Mining,Commodities,0
+TRIGYN,411,IT - Software,Information Technology,Information Technology,0
+IL&FSENGG,408,Construction,Construction,Industrials,0
+LYKALABS,405,Pharmaceuticals & Biotechnology,Healthcare,Healthcare,0
+IITL,404,Finance,Financial Services,Financial Services,0
+TPLPLASTEH,404,Industrial Products,Capital Goods,Industrials,0
+KCPSUGIND,403,Agricultural Food & other Products,Fast Moving Consumer Goods,Fast Moving Consumer Goods,0
+PODDARMENT,402,Chemicals & Petrochemicals,Chemicals,Commodities,0
+RUCHIRA,400,Paper Forest & Jute Products,Forest Materials,Commodities,0

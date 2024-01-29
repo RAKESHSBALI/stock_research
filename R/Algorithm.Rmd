@@ -1,0 +1,82 @@
+---
+title: "Stock Search"
+author: "Rakesh Bali"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+```{r message=FALSE}
+library(quantmod)
+library(dplyr)
+```
+
+```{r warning=False}
+data <- data.frame(read.csv("stock_symbols.csv"))
+symbols <- data[[1]]
+```
+
+```{r}
+symbols <- symbols[!symbols %in% c("ADANITRANS.NS", "PVR.NS", "MAHINDCIE.NS",
+                                   "KALPATPOWR.NS", "SUNCLAYLTD.NS", "MFL.NS",
+                                   "TWL.NS", "LSIL.NS", "RILINFRA.NS", "CLOUD.NS",
+                                   "INNOVANA.NS", "BETA.NS", "COOLCAPS.NS", "4THDIM.NS",
+                                   "KRISHIVAL.NS", "SPECTRUM.NS", "BINDALAGRO.NS",
+                                   "JSLL.NS", "REVATHI.NS", "NXTDIGITAL.NS",
+                                   "ASCOM.NS","NPST.NS")]
+```
+
+
+```{r warning=FALSE, results='hide'}
+new_list <- c()
+
+tryCatch(
+  expr = {
+    for(symbol in symbols) {
+      stock <- getSymbols(symbol, src = "yahoo", from = "2023-01-01", to = Sys.Date(), 
+                 auto.assign = FALSE)
+      stock_length <- length(Cl(stock))
+      if(stock_length > 100) {
+       close_price <- na.omit(Cl(stock))
+       ema_20 <- EMA(close_price, 20)
+       ema_40 <- EMA(close_price, 40)
+       ema_100 <- EMA(close_price, 100)
+       ema_200 <- EMA(close_price, 200)
+       high <- max(close_price)
+       
+       if(tail(close_price, 1) > 0.85 * high &&
+          tail(close_price, 1) > tail(ema_20, 1) && 
+          tail(ema_20, 1) > tail(ema_40, 1) &&
+          tail(ema_40, 1) > tail(ema_100, 1) &&
+          tail(ema_100, 1) > tail(ema_200, 1)
+          ) {
+         new_list <- c(new_list, symbol)
+         cat("Filtered Stock ::", symbol)
+       }
+      }
+    }
+  },
+  error = function(e) {
+    cat("An error occurred: ", symbol, conditionMessage(e), "\n")
+  },
+  finally = {
+    cat("Execution completed.\n")
+  }
+)
+```
+
+```{r}
+getSymbols("HDFCBANK.NS", src = "yahoo", from = "2023-01-01")
+chartSeries(HDFCBANK.NS,
+            name = "Visualising a strategy on MSFT",
+            #subset = "2021::2023",
+            type = "line",
+            TA = c(addSMA(60, col = "yellow"), addSMA(80, col = "red"), 
+                   addMomentum(), addRSI())
+)
+
+```
+
+
+
+
